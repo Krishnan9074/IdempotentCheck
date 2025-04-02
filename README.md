@@ -129,3 +129,4 @@ output_dir: reports
 threshold: 0.1
 ```
 # Sample ss:
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/7befde38-89d3-46ef-a76a-03afa7b5862c" />
